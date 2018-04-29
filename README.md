@@ -5,6 +5,7 @@ Mini-cite with Responsive Sticky Navbar.
 * HTML5
 * CSS3
 * JQuery 3.3.1
+* JavaScript
 
 
 ## **Authors**

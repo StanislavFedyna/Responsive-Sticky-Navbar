@@ -1,4 +1,4 @@
-# **The North Face"**
+# **The North Face**
 Mini-cite with Responsive Sticky Navbar.
 
 ## **Built With:**
